@@ -4,6 +4,38 @@
 
 .head {
   display: flex;
-  justify-content: center;
+  justify-content: space-evenly;
+}
+.Logo {
+display: flex;
+}
+main {
+  gap: 15px;
+display: flex;
+flex-wrap: wrap;
+}
+.navigation {
+  display: flex;
+  justify-content: space-evenly;
+}
+.link {
+  width: 140px;
+  height: 50px;
+  background-color: brown;
+  color: white;
+  display: flex;
   align-items: center;
+  justify-content: center;
+}
+.container {
+width: 200px;
+display: flex;
+}
+h1 {
+  gap: 5px;
+  color: red;
+  font-weight: bolder;
+  font-size: xx-large;
+  display: flex;
+ justify-content: center;
 }

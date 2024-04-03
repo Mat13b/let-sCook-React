@@ -6,7 +6,7 @@ function DisplayFooter() {
                 <div>
                 <img src="src/assets/footer.svg" alt=""  />
                 </div>
-                <div>
+                <div className="Pied">
                 <img src="src/assets/download.jpg" alt="" width="200px"/>
                 <div>
                <h1>Téléchargez Notre Livre de Recettes Gratuit </h1>
